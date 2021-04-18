@@ -14,6 +14,7 @@ json data link:
 https://www.cvs.com/immunizations/covid-19-vaccine/immunizations/covid-19-vaccine.vaccine-status.TX.json?vaccineinfo
 
 language: Python
+
 frameworks: requests/BeautifulSoup/json
 
 ##############################

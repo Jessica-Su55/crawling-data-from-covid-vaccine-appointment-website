@@ -9,6 +9,7 @@ If so, send email to receiver.
 
 link to CVS website:
 https://www.cvs.com/immunizations/covid-19-vaccine
+
 json data link:
 https://www.cvs.com/immunizations/covid-19-vaccine/immunizations/covid-19-vaccine.vaccine-status.TX.json?vaccineinfo
 
